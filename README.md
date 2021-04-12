@@ -11,7 +11,7 @@ My application that can be adjusted according to the frequency of the sound and 
 If you adjust the sound too much in the javascript document, you could damage your ear and speaker.
 #
 <img src="ses.png">
-#
+
 
 ## Github Account Link
 
