@@ -12,8 +12,6 @@ If you adjust the sound too much in the javascript document, you could damage yo
 #
 <img src="ses.png">
 #
-## Codpen.io
-[Codpen account link](https://codepen.io/oguzhan1881)
 
 ## Github Account Link
 
